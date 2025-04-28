@@ -1,0 +1,12 @@
+#wrapper{
+    padding: 40px;
+    width: 60%;
+    display:block;
+    margin: auto;
+    align-items: center;
+    background-color:#212121;
+    color: white;
+}
+::placeholder{
+    color: rgb(41, 39, 39);
+} 
